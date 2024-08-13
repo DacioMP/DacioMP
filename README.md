@@ -1,8 +1,11 @@
 <h1 align="center"> Hey! Good to see you 👋 </h1>
 <div align="center">
-  <a href="https://www.linkedin.com/in/im-pedrosa/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a><img alt="Gmail" src="https://img.shields.io/badge/pedrosa.ctt@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/><a href="https://github.com/DacioMP" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a><a href="https://twitter.com/im_pedrosa" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/im-pedrosa/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <img alt="Gmail" src="https://img.shields.io/badge/pedrosa.ctt@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://github.com/DacioMP" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a>
+  <a href="https://twitter.com/im_pedrosa" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </div><br/>
+
 <p>
 Hello, I'm Matheus Pedrosa. I am a Full-Stack Developer from Manaus, Brazil.
 I have a degree in Electronic Engineering with a focus on Embedded Systems from the Universidade do Estado Amazonas. I have experience in developing web systems using technologies such as Java, Kotlin, Python, and React. </br>
