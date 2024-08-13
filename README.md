@@ -8,7 +8,7 @@
 
 <p>
 Hello, I'm Matheus Pedrosa. I am a Full-Stack Developer from Manaus, Brazil.
-I have a degree in Electronic Engineering with a focus on Embedded Systems from the Universidade do Estado Amazonas. I have experience in developing web systems using technologies such as Java, Kotlin, Python, and React. </br>
+I have a degree in Electronic Engineering with a focus on Embedded Systems from the Universidade do Estado do Amazonas. I have experience in developing web systems using technologies such as Java, Kotlin, Python, and React. </br>
 </p>
 
 <h3>Skills 🤹🏻‍♂️</h3>
