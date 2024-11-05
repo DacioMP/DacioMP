@@ -42,7 +42,7 @@ I have a degree in Electronic Engineering with a focus on Embedded Systems from 
   </thead>
   <tbody>
     <tr>
-      <td>Intern</td>
+      <td>Full-Stack Developer</td>
       <td>Sidia</td>
       <td>Web Development, DevOps</td>
       <td>2023 — 2024</td>
