@@ -15,7 +15,7 @@ I have a degree in Electronic Engineering with a focus on Embedded Systems from 
 <ul>
   <li><b>Back-End</b>: Java | Spring | Spring Boot | Python | Django</li>
   <li><b>Front-End</b>: JavaScript | HTML | CSS | React JS</li>
-  <li><b>Data Bases</b>: Postgres | MongoDB | H2</li>
+  <li><b>Data Bases</b>: Postgres | MySQL | MongoDB | H2</li>
   <li><b>DevOps</b>: Docker | Git | GitHub</li>
   <li><b>Operating Systems</b>: Linux | Windows 11</li>
 </ul>
