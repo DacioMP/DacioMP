@@ -8,22 +8,21 @@
 
 <p>
 Hello, I'm Matheus Pedrosa. I am a Full-Stack Developer from Manaus, Brazil.
-I have a degree in Electronic Engineering with a focus on Embedded Systems from the Universidade do Estado do Amazonas. I have experience in developing web systems using technologies such as Java, Kotlin, Python, and React. </br>
+I have a degree in Electronic Engineering with a focus on Embedded Systems from the Universidade do Estado do Amazonas. I have experience in developing web systems using technologies such as Java, C#, Python, and React. </br>
 </p>
 
 <h3>Skills 🤹🏻‍♂️</h3>
 <ul>
-  <li><b>Back-End</b>: Java | Spring | Spring Boot | Python | Flask</li>
+  <li><b>Back-End</b>: Java | Spring | Spring Boot | Python | Django</li>
   <li><b>Front-End</b>: JavaScript | HTML | CSS | React JS</li>
-  <li><b>Mobile</b>: Kotlin | Android</li>
   <li><b>Data Bases</b>: Postgres | MongoDB | H2</li>
-  <li><b>DevOps</b>: Git | GitHub</li>
+  <li><b>DevOps</b>: Docker | Git | GitHub</li>
   <li><b>Operating Systems</b>: Linux | Windows 11</li>
 </ul>
 
 <h3>Currently, I'm learning 📚</h3>
 <ul>
-  <li>Docker</li>
+  <li>C#</li>
   <li>Kubernetes</li>
   <li>Microservices</li>
   <li>Clean Architecture</li>
